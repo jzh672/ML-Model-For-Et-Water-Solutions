@@ -4,7 +4,7 @@
 
 This project aims to develop a machine learning model to predict the safe mole fraction of ethanol in ethanol-water solutions to prevent container explosions by accurately modeling vapor pressure.
 
-The Core Problem:
+# The Core Problem:
 
 Ethanol solutions are widely used in industries like pharmaceuticals and food.
 
